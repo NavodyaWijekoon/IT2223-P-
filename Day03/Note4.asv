@@ -1,0 +1,5 @@
+letter =input('Enter a letter','s');
+letter=lower(letter);
+
+if length(letter) ==1 && ischar(letter)
+    if any(letter ==['a','e'
