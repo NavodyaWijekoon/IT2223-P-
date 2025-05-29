@@ -1,0 +1,80 @@
+Q1)write a for loop to calculate the sum of the numbers from 1 to 10
+
+sum=0;
+for i=1:10
+    sum = sum + i;
+    disp(sum);
+end
+
+output:   
+     1
+
+     3
+
+     6
+
+    10
+
+    15
+
+    21
+
+    28
+
+    36
+
+    45
+
+    55
+   
+Q2)write a code find the factorial
+fact =1;
+num=5;
+for i=1:num
+    fact = fact*i;
+    disp(fact)
+end
+
+output:
+    1
+
+     2
+
+     6
+
+    24
+
+   120
+
+Q3)display methods
+
+x=10;
+disp(['The number is: ', num2str(x)])
+disp('The number is: ' +x)
+fprintf('The number is: %d',x)
+y=sprintf('The number is: %d',x)
+disp(y)
+
+output:
+The number is: 10
+The number is: 10
+The number is: 10
+y =
+
+    'The number is: 10'
+
+     The number is: 10
+	 
+Q4)user input methods
+
+x=input('Enter the number: ');
+disp(['You entered ', num2str(x)]);
+
+name=input('Enter your name: ',"s");
+disp(['You entered ',name]);
+
+output:
+Enter the number: 10
+You entered 10
+Enter your name: Navo
+You entered Navo
