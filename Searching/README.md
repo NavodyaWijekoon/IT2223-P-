@@ -6,12 +6,12 @@
 
 ![Linear Search](https://github.com/user-attachments/assets/99be6486-6ef4-46fa-8dcd-827f0dd2d467)
 
-3)LinearSearchTime
+3)LinearSearchTime -
 	Find the target element index
  
 ![Linear Search Time](https://github.com/user-attachments/assets/4fd8db05-ee06-4eb2-8a35-4cb66ad032b9)
  
-4)OneThousand_LinearSearch
+4)OneThousand_LinearSearch -
 	Find elapsed time
 
 ![OneThousand_LinearSearch](https://github.com/user-attachments/assets/c799f216-633f-4205-bb93-35ea04ce54bd)
